@@ -1,0 +1,5 @@
+mkdir -p docs/screenshots
+# copy your PNGs into docs/screenshots/
+git add docs/screenshots
+git commit -m "Add screenshots"
+git push
