@@ -42,11 +42,16 @@ of the person who entered the record.
 | Remark | Normal or Re-sort. A re-sort entry also records which NC type is being re-sorted |
 | Work order no. | Optional free text |
 
+![Data Entry List](screenshots/04-entry-list.png)
+![Data Entry Form](screenshots/01-data-entry-form.png)
+
 ### 3. NC lines
 For each defect found, the operator adds a row with an NC category/type from the master data and the
 quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 `nc_quantity ÷ total × 100`. NC photos can be attached to each NC row.
-![Data entry form](screenshots/01-data-entry-form.png)
+
+![NC Data Entry List](screenshots/05-nc-entry-list.png)
+![Attach NC Photo](screenshots/02-nc-detail-photos.png)
 
 ### 4. Validation
 When the form is submitted, the server checks the data before saving anything. The rules are listed in
@@ -85,6 +90,12 @@ There are two ways to read the data:
 
 - **Internal Joomla reports** read the database directly, so they are current immediately:
   dashboard, NC reports by week and month, model summary, daily NC% summary and operator analysis.
+
+  ![Dashboard](screenshots/06-dashboard.png)
+  ![Dashboard](screenshots/06-dashboard_1.png)
+  ![NC Report Weekly](screenshots/07-nc-report-weekly.png)
+  ![Operator Analysis](screenshots/08-operator-analysis.png)
+  
 - **The BI dashboard** reads the same tables on a schedule, so new entries appear after the next
   refresh.
 
