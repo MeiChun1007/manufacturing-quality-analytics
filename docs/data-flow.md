@@ -46,6 +46,7 @@ of the person who entered the record.
 For each defect found, the operator adds a row with an NC category/type from the master data and the
 quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 `nc_quantity ÷ total × 100`. NC photos can be attached to each NC row.
+![Data entry form](screenshots/01-data-entry-form.png)
 
 ### 4. Validation
 When the form is submitted, the server checks the data before saving anything. The rules are listed in
