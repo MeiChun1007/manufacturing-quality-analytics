@@ -70,7 +70,7 @@ flowchart LR
 | `com_nc` | Maintains NC categories and NC types |
 | `com_product` | Maintains product components and the model catalog, including expected output per shift |
 | `com_vendor` | Maintains vendor remark options, per-vendor remark assignment and vendor visibility |
-| `plg_user_comdataredirect` | User plugin that handles redirection for logged-in users (TODO: describe exact behaviour) |
+| `plg_user_comdataredirect` | User plugin that handles redirection for logged-in users |
 
 The master-data components (`com_nc`, `com_product`, `com_vendor`) control the options shown in
 the data entry form, so users choose from approved values instead of typing free text.
