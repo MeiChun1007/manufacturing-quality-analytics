@@ -27,10 +27,12 @@ See [`database/schema.sql`](../database/schema.sql) for the full definitions.
 
 ## Requirements
 
-- Joomla 5.x
+- Joomla 4.x and above
 - PHP 8.x
 - MariaDB 10.11+ (or compatible MySQL)
-
+- Optional: tested with the [Helix Ultimate](https://www.joomshaper.com) template by JoomShaper.
+  The template is not included in this repository.
+  
 TODO: confirm the exact minimum Joomla and PHP versions from the package manifests.
 
 ## Installation
