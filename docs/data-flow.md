@@ -142,4 +142,3 @@ Entries are soft-deleted so that a mistake can be recovered and the history is n
 
 External systems can read and write data through the REST API, authenticated with an API token.
 The same validation rules apply, so API clients cannot create records the form would reject.
-(TODO: confirm this matches the implementation.)
