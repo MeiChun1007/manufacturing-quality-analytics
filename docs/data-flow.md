@@ -42,10 +42,10 @@ of the person who entered the record.
 | Remark | Normal or Re-sort. A re-sort entry also records which NC type is being re-sorted |
 | Work order no. | Optional free text |
 
-####Data Entry List
+#### Data Entry List
 ![Data Entry List](screenshots/04-entry-list.png)
 
-####Data Entry Form
+#### Data Entry Form
 ![Data Entry Form](screenshots/01-data-entry-form.png)
 
 ### 3. NC lines
@@ -53,10 +53,10 @@ For each defect found, the operator adds a row with an NC category/type from the
 quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 `nc_quantity ÷ total × 100`. NC photos can be attached to each NC row.
 
-####NC Data Entry List
+#### NC Data Entry List
 ![NC Data Entry List](screenshots/05-nc-entry-list.png)
 
-####Attach NC Photo
+#### Attach NC Photo
 ![Attach NC Photo](screenshots/02-nc-detail-photos.png)
 
 ### 4. Validation
