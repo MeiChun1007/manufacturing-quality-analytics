@@ -91,7 +91,6 @@ Changing a hidden field in the browser does not change who is recorded.
 | API Sync | Account used by API integrations |
 | Administrator / Super User | Maintains users, master data and configuration |
 
-TODO: adjust this table to match the permissions you configured in Joomla.
 
 ## KPI definitions
 
