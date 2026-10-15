@@ -53,6 +53,7 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 
 ![Internal dashboard](screenshots/01-dashboard-1.png)
 ![Internal dashboard](screenshots/01-dashboard-2.png)
+
 *Joomla internal dashboard: KPI cards, NC trend, top models, vendor analysis and NC breakdown.*
 
 -----------------
@@ -67,7 +68,7 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 |-----------------|--------------------|-----------------|
 | ![Model Summary](screenshots/06-model-summary.png) | ![Daily NC% Summary](screenshots/07-daily-nc-summary.png) | ![Operator Analysis](screenshots/08-operator-analysis.png) | 
 
-
+-----------------
 #### BI Dashboard
 ![BI dashboard](docs/screenshots/12-bi-dashboard-1.png)
 *Power BI dashboard built on the sample data: quality overview, NC trend and breakdowns by category and type.*
