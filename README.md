@@ -72,7 +72,7 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 
 -----------------
 #### BI Dashboard
-![BI dashboard](docs/screenshots/12-bi-dashboard-1.png)
+![BI dashboard](docs/screenshots/10-bi-dashboard.png)
 *Power BI dashboard built on the sample data: quality overview, NC trend and breakdowns by category and type.*
 
 ### Documentation
