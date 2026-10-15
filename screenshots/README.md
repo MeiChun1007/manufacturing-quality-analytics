@@ -99,4 +99,4 @@ An interactive Power BI report built on the same database for management review.
 - Top 5 models by NC rate, vendor analysis, and top NC categories and types
 - Refresh information, so users know how current the data is
 
-![BI dashboard](10-bi-dashboard-1.png)
+![BI dashboard](10-bi-dashboard.png)
