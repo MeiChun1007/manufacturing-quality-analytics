@@ -85,6 +85,8 @@ record. Each entry has zero or more NC lines (`data_entry_nc`), and each NC line
 See [`database/schema.sql`](../database/schema.sql) and the entity diagram in the
 [root README](../README.md).
 
+![Database Relationship Diagram](screenshots/database-relationship-diagram.png)
+
 ### Analytics
 
 The BI tool connects to the database with a read-only account and reads the entry, NC and master-data
