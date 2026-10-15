@@ -37,14 +37,14 @@ INSERT INTO `jos_usergroups` (`id`, `parent_id`, `lft`, `rgt`, `title`) VALUES
 INSERT INTO `jos_users` (`id`, `name`, `username`, `email`, `password`, `block`, `sendEmail`, `registerDate`, `lastvisitDate`, `activation`, `params`) VALUES
 (101, 'Demo Admin',          'demo_admin',    'demo_admin@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 1, '2026-01-05 09:00:00', NULL, '', '{}'),
 (102, 'Demo API Sync',       'demo_api_sync', 'demo_api_sync@example.com', '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-05 09:05:00', NULL, '', '{}'),
-(110, 'Operator One',        'operator_1',    'operator_1@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-06 08:00:00', NULL, '', '{}'),
-(111, 'Operator Two',        'operator_2',    'operator_2@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-06 08:05:00', NULL, '', '{}'),
-(112, 'Operator Three',      'operator_3',    'operator_3@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-06 08:10:00', NULL, '', '{}'),
+(110, 'Operator A',        'operator_1',    'operator_1@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-06 08:00:00', NULL, '', '{}'),
+(111, 'Operator B',        'operator_2',    'operator_2@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-06 08:05:00', NULL, '', '{}'),
+(112, 'Operator C',      'operator_3',    'operator_3@example.com',    '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-06 08:10:00', NULL, '', '{}'),
 (120, 'Vendor Manager Demo', 'vendor_main',   'vendor_main@example.com',   '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:00:00', NULL, '', '{}'),
-(121, 'Vendor Alpha',        'vendor_alpha',  'vendor_alpha@example.com',  '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:05:00', NULL, '', '{}'),
-(122, 'Vendor Bravo',        'vendor_bravo',  'vendor_bravo@example.com',  '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:10:00', NULL, '', '{}'),
-(123, 'Vendor Charlie',      'vendor_charlie','vendor_charlie@example.com','!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:15:00', NULL, '', '{}'),
-(124, 'Vendor Delta',        'vendor_delta',  'vendor_delta@example.com',  '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:20:00', NULL, '', '{}');
+(121, 'Vendor A',        'vendor_alpha',  'vendor_alpha@example.com',  '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:05:00', NULL, '', '{}'),
+(122, 'Vendor B',        'vendor_bravo',  'vendor_bravo@example.com',  '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:10:00', NULL, '', '{}'),
+(123, 'Vendor C',      'vendor_charlie','vendor_charlie@example.com','!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:15:00', NULL, '', '{}'),
+(124, 'Vendor D',        'vendor_delta',  'vendor_delta@example.com',  '!DEMO-PLACEHOLDER-NOT-A-REAL-HASH', 0, 0, '2026-01-07 10:20:00', NULL, '', '{}');
 
 INSERT INTO `jos_user_usergroup_map` (`user_id`, `group_id`) VALUES
 (101, 8),
