@@ -39,7 +39,7 @@ of the person who entered the record.
 | Vendor | Dropdown from the vendor accounts the user may see |
 | Lot | Vendor and vendor-remark combination (`vendor_details`) |
 | Total | Total quantity sorted/produced for the entry |
-| Remark | Normal or Re-sort. A re-sort entry also records which NC type is being re-sorted |
+| Remark | Normal or Resort. A resort entry also records which NC type is being resorted |
 | Work order no. | Optional free text |
 
 | Data Entry List | Data Entry Form |
