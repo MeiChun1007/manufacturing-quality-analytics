@@ -105,13 +105,26 @@ There are two ways to read the data:
   
   #### NC Report Weekly
   ![NC Report Weekly](screenshots/07-nc-report-weekly.png)
-  
+
+  #### NC Report Monthly
+  ![NC Report Monthly](screenshots/09-nc-report-monthly.png)
+
+  #### Model Summary
+  ![Model Summary](screenshots/10-model-summary.png)
+
+  #### Daily NC% Summary
+  ![Daily NC% Summary](screenshots/11-daily-nc-summary.png)
+
   #### Operator Analysis
   ![Operator Analysis](screenshots/08-operator-analysis.png)
   
 - **The BI dashboard** reads the same tables on a schedule, so new entries appear after the next
   refresh.
-
+  ![BI Dashboard](screenshots/12-bi-dashboard.png)
+  ![BI Dashboard](screenshots/12-bi-dashboard-1.png)
+  ![BI Dashboard](screenshots/12-bi-dashboard-2.png)
+  ![BI Dashboard](screenshots/12-bi-dashboard-3.png)
+  
 ### 7. Review and action
 Supervisors use the reports to find high-NC models, vendors, operators or NC types, and then investigate
 the cause and track the corrective action.
