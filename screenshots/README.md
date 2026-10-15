@@ -74,7 +74,7 @@ A drill-down table for a specific process-related NC type. It lists the individu
 - NC% badges for quick comparison
 - Updates with the period and filters chosen on the dashboard
 
-![NC Data entry list](03-nc-data-entry-list.png)
+![NC Data entry list](03-nc-data-entry-list-updated.png)
 
 ### Operator Performance Dashboard
 
@@ -99,4 +99,4 @@ An interactive Power BI report built on the same database for management review.
 - Top 5 models by NC rate, vendor analysis, and top NC categories and types
 - Refresh information, so users know how current the data is
 
-![BI dashboard](docs/screenshots/12-bi-dashboard-1.png)
+![BI dashboard](main/docs/screenshots/12-bi-dashboard-1.png)
