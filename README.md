@@ -36,7 +36,39 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 
 ## Project Screenshots
 
-See the screenshots folder for anonymized dashboard and system architecture examples.
+### Data Entry and Validation
+
+| Data Entry Form | Validation Message |
+|-----------------|--------------------|
+| ![Data entry form](screenshots/09-data-entry-form.png) | ![Validation error](docs/screenshots/03-validation-error.png) |
+| Production information with multiple NC lines | Rules such as NC quantity ≤ total are enforced on the server |
+
+| Data Entry List | NC Data Entry List |
+|-----------------|--------------------|
+| ![Data entry list](screenshots/02-data-entry-list.png) | ![NC Data entry list](screenshots/03-nc-data-entry-list.png) |
+
+### Reporting and analytics
+
+#### Joomla Site
+
+![Internal dashboard](screenshots/01-dashboard-1.png)
+![Internal dashboard](screenshots/01-dashboard-2.png)
+*Joomla internal dashboard: KPI cards, NC trend, top models, vendor analysis and NC breakdown.*
+
+| NC Report Monthly | NC Report Weekly |
+|-----------------|--------------------|
+| ![NC Report Monthly](screenshots/04-nc-report-monthly.png) | ![NC Report Weekly](screenshots/05-nc-report-weekly.png) |
+| ![NC Report Monthly](screenshots/04-nc-report-monthly-1.png) | ![NC Report Weekly](screenshots/05-nc-report-weekly-1.png) |
+
+
+| Model Summary | Daily NC% Summary |
+|-----------------|--------------------|
+| ![Model Summary](screenshots/06-model-summary.png) | ![Daily NC% Summary](screenshots/07-daily-nc-summary.png) |
+
+
+#### BI Dashboard
+![BI dashboard](docs/screenshots/12-bi-dashboard-1.png)
+*Power BI dashboard built on the sample data: quality overview, NC trend and breakdowns by category and type.*
 
 ## Data Privacy
 
