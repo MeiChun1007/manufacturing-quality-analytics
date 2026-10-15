@@ -55,6 +55,8 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 ![Internal dashboard](screenshots/01-dashboard-2.png)
 *Joomla internal dashboard: KPI cards, NC trend, top models, vendor analysis and NC breakdown.*
 
+-----------------
+
 | NC Report Monthly | NC Report Weekly |
 |-----------------|--------------------|
 | ![NC Report Monthly](screenshots/04-nc-report-monthly.png) | ![NC Report Weekly](screenshots/05-nc-report-weekly.png) |
@@ -70,6 +72,16 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 ![BI dashboard](docs/screenshots/12-bi-dashboard-1.png)
 *Power BI dashboard built on the sample data: quality overview, NC trend and breakdowns by category and type.*
 
+### Documentation
+
+- [System architecture](docs/architecture.md)
+- [Data flow](docs/data-flow.md)
+- [Technical documentation](docs/technical-documentation.md)
+
 ## Data Privacy
 
-This portfolio uses anonymized screenshots and/or synthetic sample data. No confidential company records, credentials, or proprietary source code are included.
+- **All data is fictional.** The database contents in `database/sample_data.sql` and everything shown in
+  the screenshots are invented for demonstration. Names, models, vendors, work orders, lot numbers
+  and quantities do not come from a real production system.
+- **No real accounts or credentials.** The sample users use `example.com` addresses and non-functional
+  placeholder passwords. No API tokens, passwords, connection strings or server details are included.
