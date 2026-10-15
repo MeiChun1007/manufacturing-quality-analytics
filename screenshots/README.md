@@ -9,8 +9,8 @@ A Joomla dashboard that gives supervisors a quick overview of production quality
 - Top 5 models by NC rate and vendor analysis tables
 - NC breakdown by category and by type
 
-![Internal dashboard](screenshots/01-dashboard-1.png)
-![Internal dashboard](screenshots/01-dashboard-2.png)
+![Internal dashboard](01-dashboard-1.png)
+![Internal dashboard](01-dashboard-2.png)
 
 ### Weekly & Monthly NC Report
 
@@ -25,8 +25,8 @@ A detailed report of non-conformance trends for a selected week. It lists every 
 
 | NC Report Monthly | NC Report Weekly |
 |-----------------|--------------------|
-| ![NC Report Monthly](screenshots/04-nc-report-monthly.png) | ![NC Report Weekly](screenshots/05-nc-report-weekly.png) |
-| ![NC Report Monthly](screenshots/04-nc-report-monthly-1.png) | ![NC Report Weekly](screenshots/05-nc-report-weekly-1.png) |
+| ![NC Report Monthly](04-nc-report-monthly.png) | ![NC Report Weekly](05-nc-report-weekly.png) |
+| ![NC Report Monthly](04-nc-report-monthly-1.png) | ![NC Report Weekly](05-nc-report-weekly-1.png) |
 
 ### Model Summary
 
@@ -38,7 +38,7 @@ A ranking of models and parts by defect rate over a selected period. It helps qu
 - Sorted by NC% so high-risk models appear at the top
 - Analysis by month, week or date
 
-![Model Summary](screenshots/06-model-summary.png)
+![Model Summary](06-model-summary.png)
 
 ### Daily NC% Summary
 
@@ -50,7 +50,7 @@ A heat-map style table that shows how NC% changes day by day for each part, mode
 - Filters for year, week, part, model, vendor and remark
 - Days without data are left blank, so incomplete days are not mistaken for good days
 
- ![Daily NC% Summary](screenshots/07-daily-nc-summary.png) 
+ ![Daily NC% Summary](07-daily-nc-summary.png) 
 
 ### Data Entries
 
@@ -63,7 +63,7 @@ The main working list for production and NC records. Users search, filter, revie
 - Export report and add-entry buttons
 - Active and trashed records are separated, so deleted entries can be recovered
 
-![Data entry list](screenshots/02-data-entry-list.png)
+![Data entry list](02-data-entry-list.png)
 
 ### NC Entries
 
@@ -74,7 +74,7 @@ A drill-down table for a specific process-related NC type. It lists the individu
 - NC% badges for quick comparison
 - Updates with the period and filters chosen on the dashboard
 
-![NC Data entry list](screenshots/03-nc-data-entry-list.png)
+![NC Data entry list](03-nc-data-entry-list.png)
 
 ### Operator Performance Dashboard
 
@@ -86,7 +86,7 @@ An interactive dashboard designed to monitor operator-level production performan
 - Quality and production ranking tables
 - Visual identification of performance patterns and potential quality issues
 
-![Operator Analysis](screenshots/08-operator-analysis.png) 
+![Operator Analysis](08-operator-analysis.png) 
 
 ### Power BI Quality Dashboard
 
