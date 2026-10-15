@@ -56,9 +56,11 @@ quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 
 
 ![NC Data Entry List](screenshots/05-nc-entry-list-updated.png)
+
 *Figure 3: NC Data Entry List.*
 
 ![Attach NC Photo](screenshots/02-nc-detail-photos.png)
+
 *Figure 4: NC lines with attached photos.*
 
 ### 4. Validation
@@ -101,35 +103,45 @@ There are two ways to read the data:
   
   ![Dashboard](screenshots/06-dashboard-updated.png)
   ![Dashboard](screenshots/06-dashboard-updated-1.png)
+
   *Figure 4: Internal dashboard.*
 
   ![NC Report Weekly](screenshots/07-nc-report-weekly.png)
+
   *Figure 5: NC Report Weekly.*
   
   ![NC Report Monthly](screenshots/09-nc-report-monthly.png)
+
   *Figure 6: NC Report Monthly.*
   
   ![Model Summary](screenshots/10-model-summary-updated.png)
+
   *Figure 7: Model Summary.*
   
   ![Daily NC% Summary](screenshots/11-daily-nc-summary-updated.png)
+
   *Figure 8: Daily NC% Summary.*
   
   ![Operator Analysis](screenshots/08-operator-analysis-updated.png)
-   *Figure 9: Operator Analysis.*
+
+  *Figure 9: Operator Analysis.*
   
 - **The BI dashboard** reads the same tables on a schedule, so new entries appear after the next
   refresh.
   ![BI Dashboard](screenshots/12-bi-dashboard.png)
+
   *Figure 10: Dashboard Overview.*
   
   ![BI Dashboard](screenshots/12-bi-dashboard-1.png)
+
   *Figure 11: Kokeshi Report.*
   
   ![BI Dashboard](screenshots/12-bi-dashboard-2.png)
+
   *Figure 12: Model Details.*
   
   ![BI Dashboard](screenshots/12-bi-dashboard-3.png)
+
   *Figure 13: NC Details.*
   
 ### 7. Review and action
