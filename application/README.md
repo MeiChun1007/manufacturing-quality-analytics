@@ -12,7 +12,7 @@ and NC (non-conformance) tracking system. The database design is documented in
 | `com_nc` | 1.1.1 | Component | Manages NC master data: categories and defect types. |
 | `com_product` | 1.3.0 | Component | Manages product components and the model catalog, including expected output per normal and overtime shift. |
 | `com_vendor` | 2.2.0 | Component | Manages vendor remark options, per-vendor remark assignment and which vendors a vendor manager can see. |
-| `plg_user_comdataredirect` | n/a | User plugin | TODO: describe in one line, for example "redirects users to `com_data` after login". |
+| `plg_user_comdataredirect` | n/a | User plugin | redirects users to `com_data` after login. |
 
 ### Database tables used
 
@@ -73,8 +73,6 @@ methods (for example GET list and GET single).
 | Vendor | Views and enters data for their own company |
 | Vendor Manager | Sees data across the vendors assigned in `vendor_access` |
 | API Sync | Account used by API integrations |
-
-TODO: adjust this table to match the access levels you actually implemented.
 
 ## Repository notes
 
