@@ -43,11 +43,11 @@ of the person who entered the record.
 | Work order no. | Optional free text |
 
 
-#### Data Entry List
 ![Data Entry List](screenshots/04-entry-list.png)
+*Figure 1: Data entry list with production information and total NC.*
 
-#### Data Entry Form
 ![Data Entry Form](screenshots/01-data-entry-form.png)
+*Figure 2: Data entry form with production information and NC lines.*
 
 ### 3. NC lines
 For each defect found, the operator adds a row with an NC category/type from the master data and the
@@ -55,11 +55,11 @@ quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 `nc_quantity ÷ total × 100`. NC photos can be attached to each NC row.
 
 
-#### NC Data Entry List
 ![NC Data Entry List](screenshots/05-nc-entry-list.png)
+*Figure 3: NC Data Entry List.*
 
-#### Attach NC Photo
 ![Attach NC Photo](screenshots/02-nc-detail-photos.png)
+*Figure 4: NC lines with attached photos.*
 
 ### 4. Validation
 When the form is submitted, the server checks the data before saving anything. The rules are listed in
@@ -99,31 +99,38 @@ There are two ways to read the data:
 - **Internal Joomla reports** read the database directly, so they are current immediately:
   dashboard, NC reports by week and month, model summary, daily NC% summary and operator analysis.
   
-  #### Dashboard
   ![Dashboard](screenshots/06-dashboard.png)
   ![Dashboard](screenshots/06-dashboard_1.png)
-  
-  #### NC Report Weekly
+  *Figure 4: Internal dashboard.*
+
   ![NC Report Weekly](screenshots/07-nc-report-weekly.png)
-
-  #### NC Report Monthly
+  *Figure 5: NC Report Weekly.*
+  
   ![NC Report Monthly](screenshots/09-nc-report-monthly.png)
-
-  #### Model Summary
+  *Figure 6: NC Report Monthly.*
+  
   ![Model Summary](screenshots/10-model-summary.png)
-
-  #### Daily NC% Summary
+  *Figure 7: Model Summary.*
+  
   ![Daily NC% Summary](screenshots/11-daily-nc-summary.png)
-
-  #### Operator Analysis
+  *Figure 8: Daily NC% Summary.*
+  
   ![Operator Analysis](screenshots/08-operator-analysis.png)
+   *Figure 9: Operator Analysis.*
   
 - **The BI dashboard** reads the same tables on a schedule, so new entries appear after the next
   refresh.
   ![BI Dashboard](screenshots/12-bi-dashboard.png)
+  *Figure 10: Dashboard Overview.*
+  
   ![BI Dashboard](screenshots/12-bi-dashboard-1.png)
+  *Figure 11: Kokeshi Report.*
+  
   ![BI Dashboard](screenshots/12-bi-dashboard-2.png)
+  *Figure 12: Model Details.*
+  
   ![BI Dashboard](screenshots/12-bi-dashboard-3.png)
+  *Figure 13: NC Details.*
   
 ### 7. Review and action
 Supervisors use the reports to find high-NC models, vendors, operators or NC types, and then investigate
