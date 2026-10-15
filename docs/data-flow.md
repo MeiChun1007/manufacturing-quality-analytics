@@ -42,26 +42,22 @@ of the person who entered the record.
 | Remark | Normal or Re-sort. A re-sort entry also records which NC type is being re-sorted |
 | Work order no. | Optional free text |
 
+| Data Entry List | Data Entry Form |
+|-----------------|--------------------|
+| ![Data Entry List](screenshots/04-entry-list-updated.png)| ![Data Entry Form](screenshots/01-data-entry-form.png) |
+| *Figure 1: Data entry list with production information and total NC.* | *Figure 2: Data entry form with production information and NC lines.* |
 
-![Data Entry List](screenshots/04-entry-list-updated.png)
-*Figure 1: Data entry list with production information and total NC.*
-
-![Data Entry Form](screenshots/01-data-entry-form.png)
-*Figure 2: Data entry form with production information and NC lines.*
 
 ### 3. NC lines
 For each defect found, the operator adds a row with an NC category/type from the master data and the
 quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 `nc_quantity ÷ total × 100`. NC photos can be attached to each NC row.
 
+| NC Data Entry List | Attach NC Photo |
+|-----------------|--------------------|
+| ![NC Data Entry List](screenshots/05-nc-entry-list-updated.png) | ![Attach NC Photo](screenshots/02-nc-detail-photos.png) |
+| *Figure 3: NC Data Entry List.* | *Figure 4: NC lines with attached photos.* |
 
-![NC Data Entry List](screenshots/05-nc-entry-list-updated.png)
-
-*Figure 3: NC Data Entry List.*
-
-![Attach NC Photo](screenshots/02-nc-detail-photos.png)
-
-*Figure 4: NC lines with attached photos.*
 
 ### 4. Validation
 When the form is submitted, the server checks the data before saving anything. The rules are listed in
@@ -105,26 +101,16 @@ There are two ways to read the data:
   ![Dashboard](screenshots/06-dashboard-updated-1.png)
 
   *Figure 4: Internal dashboard.*
-
-  ![NC Report Weekly](screenshots/07-nc-report-weekly.png)
-
-  *Figure 5: NC Report Weekly.*
   
-  ![NC Report Monthly](screenshots/09-nc-report-monthly.png)
+|  ![NC Report Weekly](screenshots/07-nc-report-weekly.png) |   ![NC Report Monthly](screenshots/09-nc-report-monthly.png) |
+|-----------------|--------------------|
+|   *Figure 5: NC Report Weekly.* |  *Figure 6: NC Report Monthly.* |
 
-  *Figure 6: NC Report Monthly.*
-  
-  ![Model Summary](screenshots/10-model-summary-updated.png)
 
-  *Figure 7: Model Summary.*
-  
-  ![Daily NC% Summary](screenshots/11-daily-nc-summary-updated.png)
+|   ![Model Summary](screenshots/10-model-summary-updated.png) | ![Daily NC% Summary](screenshots/11-daily-nc-summary-updated.png) |![Operator Analysis](screenshots/08-operator-analysis-updated.png) |
+|-----------------|--------------------|--------------------|
+| *Figure 7: Model Summary.* | *Figure 8: Daily NC% Summary.* | *Figure 9: Operator Analysis.* |
 
-  *Figure 8: Daily NC% Summary.*
-  
-  ![Operator Analysis](screenshots/08-operator-analysis-updated.png)
-
-  *Figure 9: Operator Analysis.*
   
 - **The BI dashboard** reads the same tables on a schedule, so new entries appear after the next
   refresh.
