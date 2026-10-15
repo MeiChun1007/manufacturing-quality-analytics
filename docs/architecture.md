@@ -3,7 +3,7 @@
 This document describes the high-level architecture of the production and non-conformance
 (NC) data collection and analytics system.
 
-![High-Level System Architecture](screenshots/High-Level System Architecture.png)
+![High-Level System Architecture](screenshots/high-level-system-architecture.png)
 
 ## Goal
 
