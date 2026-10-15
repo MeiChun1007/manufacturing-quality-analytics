@@ -150,7 +150,3 @@ JOIN jos_users o               ON o.id  = e.operator
 WHERE e.state = 1
 ORDER BY e.date;
 ```
-
-## License
-
-Add a license of your choice (for example MIT) if you want others to reuse the schema.
