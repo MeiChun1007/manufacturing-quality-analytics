@@ -74,7 +74,7 @@ A drill-down table for a specific process-related NC type. It lists the individu
 - NC% badges for quick comparison
 - Updates with the period and filters chosen on the dashboard
 
-![NC Data entry list](03-nc-data-entry-list-updated.png)
+![NC Data entry list](03-nc-data-entry-list.png)
 
 ### Operator Performance Dashboard
 
