@@ -55,7 +55,7 @@ quantity. One entry can have many NC rows. The system stores `nc_percentage` as
 
 | NC Data Entry List | Attach NC Photo |
 |-----------------|--------------------|
-| ![NC Data Entry List](screenshots/05-nc-entry-list-updated.png) | ![Attach NC Photo](screenshots/02-nc-detail-photos.png) |
+| ![NC Data Entry List](screenshots/05-nc-entry-list-updated-v1.png) | ![Attach NC Photo](screenshots/02-nc-detail-photos.png) |
 | *Figure 3: NC Data Entry List.* | *Figure 4: NC lines with attached photos.* |
 
 
