@@ -75,6 +75,8 @@ carrying the same token.
 | One NC category/type once per entry | Prevent duplicate NC lines | Implemented |
 | Work order duplicate check | Highlight possibly repeated records | Depends on the business rule |
 
+  ![Validation error message](screenshots/03-validation-error.png)
+
 ### Identity
 
 The operator on an entry comes from the authenticated account and is enforced on the server.
@@ -133,6 +135,9 @@ ORDER BY e.week;
 **Internal Joomla reports:** dashboard, NC report by month and by week, model summary, daily NC%
 summary and operator analysis.
 
+ ![Internal dashboard](screenshots/06-dashboard.png)
+ ![Internal dashboard](screenshots/06-dashboard_1.png)
+
 **BI dashboard:**
 
 - Quality overview (Total Sort, Total NC, NC%, Yield%, Total Accepted)
@@ -140,6 +145,11 @@ summary and operator analysis.
 - Top 5 models by NC rate
 - Vendor analysis
 - NC breakdown by category and by type
+
+![BI dashboard](screenshots/12-bi-dashboard.png)
+![BI dashboard](screenshots/12-bi-dashboard-1.png)
+![BI dashboard](screenshots/12-bi-dashboard-2.png)
+![BI dashboard](screenshots/12-bi-dashboard-3.png)
 
 **Analytical views**
 
