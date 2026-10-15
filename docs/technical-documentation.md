@@ -135,8 +135,8 @@ ORDER BY e.week;
 **Internal Joomla reports:** dashboard, NC report by month and by week, model summary, daily NC%
 summary and operator analysis.
 
- ![Internal dashboard](screenshots/06-dashboard.png)
- ![Internal dashboard](screenshots/06-dashboard_1.png)
+ ![Internal dashboard](screenshots/06-dashboard-updated.png)
+ ![Internal dashboard](screenshots/06-dashboard-updated-1.png)
 
 **BI dashboard:**
 
