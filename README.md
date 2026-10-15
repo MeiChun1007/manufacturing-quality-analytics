@@ -26,6 +26,8 @@ Developed a web-based production and non-conformance (NC) data collection system
 
 Data Collection → Data Validation → Database → Joomla Reporting and Power BI → Quality Analysis
 
+![System Workflow](docs/screenshots/high-level-system-architecture.png) 
+
 ## My Contribution
 
 - Developed the data collection workflow.
