@@ -61,9 +61,9 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 | ![NC Report Monthly](screenshots/04-nc-report-monthly-1.png) | ![NC Report Weekly](screenshots/05-nc-report-weekly-1.png) |
 
 
-| Model Summary | Daily NC% Summary |
-|-----------------|--------------------|
-| ![Model Summary](screenshots/06-model-summary.png) | ![Daily NC% Summary](screenshots/07-daily-nc-summary.png) |
+| Model Summary | Daily NC% Summary | Operator Analysis | 
+|-----------------|--------------------|-----------------|
+| ![Model Summary](screenshots/06-model-summary.png) | ![Daily NC% Summary](screenshots/07-daily-nc-summary.png) | ![Operator Analysis](screenshots/08-operator-analysis.png) | 
 
 
 #### BI Dashboard
