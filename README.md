@@ -47,7 +47,7 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 
 | Data Entry List | NC Data Entry List |
 |-----------------|--------------------|
-| ![Data entry list](screenshots/02-data-entry-list.png) | ![NC Data entry list](screenshots/03-nc-data-entry-list.png) |
+| ![Data entry list](screenshots/02-data-entry-list.png) | ![NC Data entry list](screenshots/03-nc-data-entry-list-v1.png) |
 
 ### Reporting and analytics
 
