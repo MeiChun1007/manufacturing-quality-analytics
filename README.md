@@ -4,6 +4,35 @@
 
 Developed a web-based production and non-conformance (NC) data collection system integrated with a relational database and Power BI reporting.
 
+## Business Problem
+
+Before the implementation of this system, production operators manually recorded production progress and non-conformance (NC) information. An administrator subsequently transferred the handwritten records into Excel on the following day.
+
+This workflow involved repetitive manual data entry, delayed data availability, and additional administrative effort. Although production and quality data were being collected, the process made it more difficult to access, monitor, and visualize the information efficiently.
+
+## Project Objectives
+
+The project aimed to digitize and streamline production data collection by:
+
+- Replacing the manual record-transfer process with a centralized web-based data entry system.
+- Reducing repetitive administrative data entry and the risk of transcription errors.
+- Centralizing production and non-conformance records for easier retrieval and analysis.
+- Enabling more effective monitoring of production performance and quality trends.
+- Supporting data-driven decision-making through interactive Power BI dashboards.
+- 
+## Solution Overview
+
+A production and non-conformance data management system was developed to connect operational data collection with analytics and reporting.
+
+The solution consists of:
+
+1. **Data Collection:** A web-based interface for recording production progress and non-conformance information.
+2. **Data Storage:** A centralized database for storing and organizing submitted records.
+3. **Data Analysis:** Structured production and quality data prepared for reporting.
+4. **Data Visualization:** Power BI dashboards for analyzing production output, NC trends, and operator-level performance.
+
+The project demonstrates how digitizing a manual workflow can establish a more efficient foundation for operational reporting and data analysis.
+
 ## Key Features
 
 - Production and NC data collection using Joomla
