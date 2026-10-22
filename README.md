@@ -112,8 +112,5 @@ Data Collection → Data Validation → Database → Joomla Reporting and Power 
 
 ## Data Privacy
 
-- **All data is fictional.** The database contents in `database/sample_data.sql` and everything shown in
-  the screenshots are invented for demonstration. Names, models, vendors, work orders, lot numbers
-  and quantities do not come from a real production system.
 - **No real accounts or credentials.** The sample users use `example.com` addresses and non-functional
   placeholder passwords. No API tokens, passwords, connection strings or server details are included.
