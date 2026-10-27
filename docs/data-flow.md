@@ -114,21 +114,10 @@ There are two ways to read the data:
   
 - **The BI dashboard** reads the same tables on a schedule, so new entries appear after the next
   refresh.
-  ![BI Dashboard](screenshots/12-bi-dashboard.png)
+  ![BI Dashboard](screenshots/13-bi-dashboard.png)
 
   *Figure 10: Dashboard Overview.*
   
-  ![BI Dashboard](screenshots/12-bi-dashboard-1.png)
-
-  *Figure 11: Kokeshi Report.*
-  
-  ![BI Dashboard](screenshots/12-bi-dashboard-2.png)
-
-  *Figure 12: Model Details.*
-  
-  ![BI Dashboard](screenshots/12-bi-dashboard-3.png)
-
-  *Figure 13: NC Details.*
   
 ### 7. Review and action
 Supervisors use the reports to find high-NC models, vendors, operators or NC types, and then investigate
