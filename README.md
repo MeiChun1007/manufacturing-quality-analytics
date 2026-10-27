@@ -19,7 +19,7 @@ The project aimed to digitize and streamline production data collection by:
 - Centralizing production and non-conformance records for easier retrieval and analysis.
 - Enabling more effective monitoring of production performance and quality trends.
 - Supporting data-driven decision-making through interactive Power BI dashboards.
-- 
+  
 ## Solution Overview
 
 A production and non-conformance data management system was developed to connect operational data collection with analytics and reporting.
